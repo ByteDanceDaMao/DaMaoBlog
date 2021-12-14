@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Writer DaMao</title>
+    <link>https://bytedancedamao.github.io/DaMaoBlog/</link>
+    <description>Recent content on Technical Writer DaMao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2021 19:04:58 +0800</lastBuildDate>
+    
+        <atom:link href="https://bytedancedamao.github.io/DaMaoBlog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://bytedancedamao.github.io/DaMaoBlog/post/</link>
+      <pubDate>Tue, 14 Dec 2021 19:04:58 +0800</pubDate>
+      
+      <guid>https://bytedancedamao.github.io/DaMaoBlog/post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

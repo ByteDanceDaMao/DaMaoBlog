@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021 on Technical Writer DaMao</title>
+    <link>https://bytedancedamao.github.io/DaMaoBlog/archives/2021/</link>
+    <description>Recent content in 2021 on Technical Writer DaMao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Dec 2021 19:04:58 +0800</lastBuildDate>
+    
+        <atom:link href="https://bytedancedamao.github.io/DaMaoBlog/archives/2021/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://bytedancedamao.github.io/DaMaoBlog/2021/my-first-post/</link>
+      <pubDate>Tue, 14 Dec 2021 19:04:58 +0800</pubDate>
+      
+      <guid>https://bytedancedamao.github.io/DaMaoBlog/2021/my-first-post/</guid>
+      <description>Technical Writer 要做什么 写作技术文档 技术写作传播 </description>
+    </item>
+    
+  </channel>
+</rss>
